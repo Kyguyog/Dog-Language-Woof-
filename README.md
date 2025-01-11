@@ -32,3 +32,5 @@ Z = "yip-growl"
 Rules:
 Separate letters with a small pause.
 Separate words with "wooo" (like a long howl).
+
+Currently the html file only supports A-Z, -, and spaces
